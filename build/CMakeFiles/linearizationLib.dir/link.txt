@@ -1,0 +1,2 @@
+/usr/bin/ar cr liblinearizationLib.a  CMakeFiles/linearizationLib.dir/linearization.cpp.o CMakeFiles/linearizationLib.dir/suffixTree.cpp.o
+/usr/bin/ranlib liblinearizationLib.a

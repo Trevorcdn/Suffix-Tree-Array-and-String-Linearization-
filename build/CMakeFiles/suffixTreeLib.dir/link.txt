@@ -1,0 +1,2 @@
+/usr/bin/ar cr libsuffixTreeLib.a  CMakeFiles/suffixTreeLib.dir/suffixTree.cpp.o
+/usr/bin/ranlib libsuffixTreeLib.a

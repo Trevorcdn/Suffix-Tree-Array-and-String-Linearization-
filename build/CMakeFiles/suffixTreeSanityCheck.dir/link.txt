@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/suffixTreeSanityCheck.dir/suffixTreeSanityCheck.cpp.o  -o suffixTreeSanityCheck  -L/home/ubuntu/workspace/testing-frameworks/googletest/googlemock/gtest/mybuild -rdynamic -lgtest -lpthread libsuffixTreeLib.a -Wl,-rpath,/home/ubuntu/workspace/testing-frameworks/googletest/googlemock/gtest/mybuild 

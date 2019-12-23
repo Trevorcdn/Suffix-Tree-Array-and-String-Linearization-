@@ -1,0 +1,6 @@
+/home/ubuntu/workspace/Ecs122BPrev/final-project/Ukkonen-SuffixTree/build/CMakeFiles/linearizationLib.dir
+/home/ubuntu/workspace/Ecs122BPrev/final-project/Ukkonen-SuffixTree/build/CMakeFiles/linearizationSanityCheck.dir
+/home/ubuntu/workspace/Ecs122BPrev/final-project/Ukkonen-SuffixTree/build/CMakeFiles/suffixArrayLib.dir
+/home/ubuntu/workspace/Ecs122BPrev/final-project/Ukkonen-SuffixTree/build/CMakeFiles/suffixArraySanityCheck.dir
+/home/ubuntu/workspace/Ecs122BPrev/final-project/Ukkonen-SuffixTree/build/CMakeFiles/suffixTreeLib.dir
+/home/ubuntu/workspace/Ecs122BPrev/final-project/Ukkonen-SuffixTree/build/CMakeFiles/suffixTreeSanityCheck.dir

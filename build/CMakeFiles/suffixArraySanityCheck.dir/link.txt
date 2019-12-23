@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/suffixArraySanityCheck.dir/suffixArraySanityCheck.cpp.o  -o suffixArraySanityCheck  -L/home/ubuntu/workspace/testing-frameworks/googletest/googlemock/gtest/mybuild -rdynamic -lgtest -lpthread libsuffixArrayLib.a -Wl,-rpath,/home/ubuntu/workspace/testing-frameworks/googletest/googlemock/gtest/mybuild 

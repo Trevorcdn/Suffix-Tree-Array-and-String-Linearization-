@@ -1,0 +1,2 @@
+/usr/bin/ar cr libsuffixArrayLib.a  CMakeFiles/suffixArrayLib.dir/suffixArray.cpp.o CMakeFiles/suffixArrayLib.dir/suffixTree.cpp.o
+/usr/bin/ranlib libsuffixArrayLib.a
